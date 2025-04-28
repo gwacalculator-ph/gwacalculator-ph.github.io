@@ -1,0 +1,177 @@
+[
+  {
+    "name": "ARY Digital",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-digital-live-logo.webp?id=83",
+    "m3u8Url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8"
+  },
+  {
+    "name": "MTV India",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189788666.webp?id=30",
+    "m3u8Url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/MTV-India-abr/playlist.m3u8"
+  },
+  {
+    "name": "Colors Cineplex HD",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189938582.webp?id=40",
+    "m3u8Url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Colors-Cineplex-HD-abr/playlist.m3u8"
+  },
+  {
+    "name": "Colors Cineplex Superhits",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1727720100748.webp?id=17",
+    "m3u8Url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/Colors-Infinity-abr/playlist.m3u8"
+  },
+  {
+    "name": "Comedy Central HD",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720190110103.webp?id=64",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Comedy-Central-HD-abr/playlist.m3u8"
+  },
+  {
+    "name": "Colors Rishtey",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720519402699.webp?id=39",
+    "m3u8Url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/Colors-Rishtey-abr/playlist.m3u8"
+  },
+  {
+    "name": "Set Entertainment",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1730720761397.webp?id=52",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "name": "Nick India",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720190626301.webp?id=36",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Nick-India-abr/playlist.m3u8"
+  },
+  {
+    "name": "Nick Jr. Urdu",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1729547557701.webp?id=18",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Nick-Jr-Hindi-abr/playlist.m3u8"
+  },
+  {
+    "name": "Nick Jr.",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1729547438288.webp?id=19",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Nick-Jr-abr/playlist.m3u8"
+  },
+  {
+    "name": "History TV18 Urdu",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720191151022.webp?id=74",
+    "m3u8Url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/History-TV18-Hindi-abr/playlist.m3u8"
+  },
+  {
+    "name": "History TV18",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720191346432.webp?id=75",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/History-TV18-abr/playlist.m3u8"
+  },
+  {
+    "name": "Sonic",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720191487512.webp?id=12",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Sonic-abr/playlist.m3u8"
+  },
+  {
+    "name": "Green Entertainment",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702552123-logo.webp?id=59",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8"
+  },
+  {
+    "name": "Hum TV",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840613135.webp?id=62",
+    "m3u8Url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8"
+  },
+  {
+    "name": "Geo Entertainment",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-entertainment-live.webp?id=32",
+    "m3u8Url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "name": "Inplus Pakistan",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720441424490.webp?id=13",
+    "m3u8Url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8"
+  },
+  {
+    "name": "BOL Entertainment",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-entertainment-live.webp?id=84",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "name": "Aan TV",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1681977574-logo.webp?id=77",
+    "m3u8Url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8"
+  },
+  {
+    "name": "ARY Zindagi",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-zindagi-live-logo.webp?id=43",
+    "m3u8Url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8"
+  },
+  {
+    "name": "Hum Sitaray",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=53",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8"
+  },
+  {
+    "name": "Hum Masala",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840592660.webp?id=24",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8"
+  },
+  {
+    "name": "Express Entertainment",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-entertainment-live.webp?id=59",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "name": "Sab TV Pakistan",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686044497-logo.webp?id=55",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8"
+  },
+  {
+    "name": "TV One",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/tv-one-live.webp?id=27",
+    "m3u8Url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8"
+  },
+  {
+    "name": "A PLUS",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a-plus-live.webp?id=12",
+    "m3u8Url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8"
+  },
+  {
+    "name": "LTN Family (Previously Filmazia)",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ltn-family-live.webp?id=65",
+    "m3u8Url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8"
+  },
+  {
+    "name": "AAJ Entertainment",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-entertainment-live.webp?id=93",
+    "m3u8Url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "name": "Discover Pakistan",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/discover-pakistan-live-logo.webp?id=36",
+    "m3u8Url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8"
+  },
+  {
+    "name": "Animal Planet",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1719302840733.webp?id=22",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8"
+  },
+  {
+    "name": "A1TV",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a1-tv-live.webp?id=26",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8"
+  },
+  {
+    "name": "Kohenoor TV",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/kohenoor-tv-live.webp?id=68",
+    "m3u8Url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/playlist.m3u8"
+  },
+  {
+    "name": "URDU 1",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/urdu-1-live.webp?id=70",
+    "m3u8Url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/urdu-1-abr/playlist.m3u8"
+  },
+  {
+    "name": "SEE TV",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/see-tv-live.webp?id=96",
+    "m3u8Url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/seeTV-abr/playlist.m3u8"
+  },
+  {
+    "name": "Kay2 TV",
+    "iconUrl": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685535127-logo.webp?id=10",
+    "m3u8Url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8"
+  }
+]
